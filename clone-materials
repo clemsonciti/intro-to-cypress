@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+cd "$(dirname $0)"
+
+module add git
+git clone https://github.com/clemsonciti/intro-to-hadoop-python
+git clone https://github.com/clemsonciti/workshop-python-intro-to-spark

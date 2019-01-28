@@ -1,0 +1,40 @@
+# Outline
+  - Introductions
+    - CITI: [citi.clemson.edu](http://citi.sites.clemson.edu/)
+      - Advanced Computing and Data Science (ACDS) Team: [citi.clemson.edu/acds](http://citi.sites.clemson.edu/acds/)
+  - Big-data
+    - What is it?
+    - 5 Vs
+    - Hadoop / Big-data
+  - Hadoop: [hadoop.apache.org](https://hadoop.apache.org/)
+    - History / open-source
+    - Architecture
+    - data-locality vs traditional HPC
+    - Hadoop ecosystem vs traditional HPC environment
+    - Compression
+  - Cypress
+    - website and user-guide: [palmetto.clemson.edu/cypress](https://www.palmetto.clemson.edu/cypress/)
+    - where to get help: email ithelp@clemson.edu w/ Cypress or Palmetto in the subject
+    - nodes
+    - quotas
+    - queues
+    - ownership / buy-in
+  - HDFS
+    - HDFS vs normal Linux FS
+    - HDFS URI vs regular file path
+    - data transfer in and out of HDFS
+  - Hadoop MapReduce w/ Python via Hadoop Streaming
+    - Hadoop Streaming
+    - programming language tradeoffs
+    - prototyping and testing workflow
+    - running workflow at scale
+  - Apache Spark - [spark.apache.org](https://spark.apache.org/)
+    - advantages over Hadoop
+      - Iterative workflows + in-memory caching
+      - Convenient APIs: Java/Scala/Python/R
+    - key features
+      - Data-locality / caching
+      - DataFrame/SQL APIs
+      - file formats
+      - compression
+  - Hadoop Ecosystem
